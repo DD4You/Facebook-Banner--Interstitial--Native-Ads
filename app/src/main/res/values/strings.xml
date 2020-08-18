@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook Ads</string>
+
+    <!--Facebook Ads-->
+    <!--Test IMG_16_9_APP_INSTALL#-->
+    <string name="banner_id">IMG_16_9_APP_INSTALL#374498903515708_374500323515566</string>
+    <string name="interstitial_id">IMG_16_9_APP_INSTALL#374498903515708_374500030182262</string>
+    <string name="native_id">IMG_16_9_APP_INSTALL#374498903515708_374499256849006</string>
+</resources>
